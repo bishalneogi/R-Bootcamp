@@ -30,6 +30,7 @@ Following are the LOs for each session
 - Work with dates:
     - Convert string into date format
     - Extract weekdays, months years etc
+    - Arithmatic operation on dates (addition, subtraction)
     - Work with time zones (optional)
 - Work with strings:
     - Gsub to substitute values
